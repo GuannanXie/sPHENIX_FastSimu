@@ -8,6 +8,9 @@
  *
  *  ** Code Maintainer
  *
+ * RUN the CODE:
+ * root -b -l -q toyD0BackGround.C++
+ *
  * *********************************************************************
 */
 
