@@ -4,6 +4,7 @@ USTC - Modern Physics Department
 
 ## Declaration
 This code was original inherit form Our STAR HFT Fast-Simulation
+
 All Rights Reserved
 
 ###Code Authors:  
