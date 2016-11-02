@@ -13,6 +13,11 @@ All Rights Reserved
 [Xiaolong Chen]() (xlchen@lbl.gov)  
 [Xin Dong]() (xdong@lbl.gov)  
 - - -
+### Presentations:  
+#### STAR Protected:  
+1. [Introduction to package](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-10-25  
+
+- - -
 
 ###How to use this code:  
 ```bash
