@@ -24,6 +24,6 @@ All Rights Reserved
 ```bash
 Code was seperate to Two part, Signal part and Background Part
 
-1,Signal, FastSimu for prompt D^{0} Efficiency
-1,BackGround, FastSimu for D<sup>0</sup> combinatorially BackGround
+1,Signal, FastSimu for prompt D0 Efficiency
+1,BackGround, FastSimu for D0 combinatorially BackGround
 ```
