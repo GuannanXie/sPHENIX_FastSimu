@@ -1,7 +1,7 @@
-# sPHENIX_FastSimu For D0 study
-LBNL - Nuclear Science Division, RNC SOFT PHYSICS GROUP
+# sPHENIX_FastSimu For D^{0} study
+LBNL - Nuclear Science Division, RNC Soft Hadron Physics Group
 
-USTC - Modern Physics Department
+USTC - Modern Physics Department, Office 410
 
 ## Declaration
 This code was original inherit form Our STAR HFT Fast-Simulation
@@ -16,6 +16,7 @@ All Rights Reserved
 ### Presentations:  
 #### STAR Protected:  
 1. [Introduction to package](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-10-25  
+1. [Study on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix.pdf), Xiaolong Chen, 2016-11-01  
 
 - - -
 
