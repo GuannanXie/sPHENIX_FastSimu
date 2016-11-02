@@ -10,6 +10,9 @@
  *
  *  ** Code Maintainer
  *
+ * RUN the CODE:
+ * root -b -l -q toyMcEffZeroDecayLength.C++
+ *
  * *********************************************************************
 */
 
