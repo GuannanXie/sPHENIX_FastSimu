@@ -15,7 +15,7 @@ All Rights Reserved
 - - -
 ### Presentations:  
 #### STAR Protected:  
-1. [Introduction to package](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-10-25  
+1. [Introduction to package and Study on D<sup>0</sup>](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-11-1  
 1. [Study on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix.pdf), Xiaolong Chen, 2016-11-01  
 
 - - -
@@ -23,4 +23,7 @@ All Rights Reserved
 ###How to use this code:  
 ```bash
 Code was seperate to Two part, Signal part and Background Part
+
+1,Signal, FastSimu for prompt D<sup>0</sup> Efficiency
+1,BackGround, FastSimu for D<sup>0</sup> combinatorially BackGround
 ```
