@@ -1,5 +1,6 @@
 # sPHENIX_FastSimu For D0 study
 LBNL - Nuclear Science Division, RNC SOFT PHYSICS GROUP
+
 USTC - Modern Physics Department
 
 ## Declaration
