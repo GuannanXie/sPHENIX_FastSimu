@@ -1,13 +1,15 @@
 # sPHENIX_FastSimu For D0 study
 LBNL - Nuclear Science Division, RNC SOFT PHYSICS GROUP
+USTC - Modern Physics Department
 
 ## Declaration
 This code was original inherit form Our STAR HFT Fast-Simulation
+All Rights Reserved
 
 ###Code Authors:  
 [Guannan Xie](https://github.com/GuannanXie) (guannanxie@lbl.gov)  
-[Mustafa Mustafa](https://github.com/MustafaMustafa) (mmustafa@lbl.gov)  
-[Hao Qiu]() (hqiu0114@gmail.com )  
+[Xiaolong Chen]() (xlchen@lbl.gov)  
+[Xin Dong]() (xdong@lbl.gov)  
 - - -
 
 ###How to use this code:  
