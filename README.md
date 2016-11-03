@@ -10,8 +10,8 @@ All Rights Reserved !
 
 ###Code Authors:  
 [Guannan Xie](https://github.com/GuannanXie) (guannanxie@lbl.gov)  
-[Xiaolong Chen]() (xlchen@lbl.gov)  
-[Xin Dong]() (xdong@lbl.gov)  
+[Xiaolong Chen](https://github.com/xlchen123) (xlchen@lbl.gov)  
+[Xin Dong](https://github.com/starsdong) (xdong@lbl.gov)  
 - - -
 ### Presentations:  
 #### STAR Protected:  

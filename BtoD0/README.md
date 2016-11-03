@@ -9,9 +9,9 @@ This code was original inherit form Our STAR HFT Fast-Simulation
 All Rights Reserved
 
 ###Code Authors:  
-[Xiaolong Chen]() (xlchen@lbl.gov)  
+[Xiaolong Chen](https://github.com/xlchen123) (xlchen@lbl.gov)  
 [Guannan Xie](https://github.com/GuannanXie) (guannanxie@lbl.gov)  
-[Xin Dong]() (xdong@lbl.gov)  
+[Xin Dong](https://github.com/starsdong) (xdong@lbl.gov)  
 - - -
 
 ###How to use this code:  
