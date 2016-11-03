@@ -1,12 +1,12 @@
-# sPHENIX_FastSimu For D<sup>0</sup> study
+# sPHENIX Fast-Simulation Study
 LBNL - Nuclear Science Division, RNC Soft Hadron Physics Group
 
 USTC - Modern Physics Department, Office 410
 
 ## Declaration
-This code was original inherit form Our STAR HFT Fast-Simulation
+This code was original inherit form Our STAR HFT Fast-Simulation Package
 
-All Rights Reserved
+All Rights Reserved !
 
 ###Code Authors:  
 [Guannan Xie](https://github.com/GuannanXie) (guannanxie@lbl.gov)  
@@ -22,8 +22,8 @@ All Rights Reserved
 
 ###How to use this code:  
 ```bash
-Code was seperate to Two part, Signal part and Background Part
+Code was seperate to Two parts, 
 
-1,Signal, FastSimu for prompt D0 Efficiency
-1,BackGround, FastSimu for D0 combinatorially BackGround
+1,D0, Fast Simulation for prompt D0 study
+1,B -> D0, Fast Simulation for b->D0 study
 ```
