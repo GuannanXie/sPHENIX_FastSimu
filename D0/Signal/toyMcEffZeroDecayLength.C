@@ -5,10 +5,6 @@
  *
  *  Authors:
  *            Guannan Xie (guannanxie@lbl.gov)
- *            **Mustafa Mustafa (mmustafa@lbl.gov)
- *            Hao Qiu (hqiu@lbl.gov)
- *
- *  ** Code Maintainer
  *
  * RUN the CODE:
  * root -b -l -q toyMcEffZeroDecayLength.C++

@@ -6,8 +6,6 @@
  *  Authors:
  *            Guannan Xie (guannanxie@lbl.gov)
  *
- *  ** Code Maintainer
- *
  * RUN the CODE:
  * root -b -l -q toyD0BackGround.C++
  *
