@@ -1,4 +1,4 @@
-# sPHENIX_D<sup>0</sup> study
+# <sup>0</sup> study
 LBNL - Nuclear Science Division, RNC Soft Hadron Physics Group
 
 USTC - Modern Physics Department, Office 410
