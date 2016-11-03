@@ -30,7 +30,7 @@
    $1: number of events every job
    $2: runned particle: D0/B0/Bpm
    $3: job start number
-   $4: $4-1 is job end number, so there are total $4-$3+1 jobs
+   $4: $4-1 is job end number, so there are total $4-$3 jobs
    other parameters are controlled in runBtoD.C or just use default value
 
 6. Note, because I close some decay channel, you need some additional scale for B0 and Bpm (B plus and minus)
