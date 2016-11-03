@@ -24,6 +24,6 @@ All Rights Reserved !
 ```bash
 Code was seperate to Two parts, 
 
-1,D0, Fast Simulation for prompt D0 study
-1,B -> D0, Fast Simulation for b->D0 study
+1, D0, Fast Simulation for prompt D0 study
+2, B -> D0, Fast Simulation for b->D0 study
 ```

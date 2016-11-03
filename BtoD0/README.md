@@ -1,55 +1,24 @@
-1. compile
-  $ root -b
-  >> .L toyMcBtoD.C++
+# B to D<sup>0</sup> study
+LBNL - Nuclear Science Division, RNC Soft Hadron Physics Group
 
-2. after 1, you can use following to test
-   root -b -q runBtoD.C
-   or just root -b -q toyMcBtoD.C++
+USTC - Modern Physics Department, Office 410
 
-3. Five parameters in the main functuion
-   A. int npart = 20000  
-      ———— AuAu200 events number
-   B. TString output = "D0.toyMc.root”  
-      ———— out put file name
-   C. TString particleName = "D0" 
-      ———— this code only include D0/B0/Bpm
-   D. mWriteType = 1 
-      ———— =1, only save histograph
-      ———— =2, only save tree
-      ———— =3, save histograph and tree
-   E. bool isCombinB = false
-      ———— this doesn’t work now, because I close some decay channel in order to increase usefull decay channel branch ratio and save some memory (decrease daughter particle number)
+## Declaration
+This code was original inherit form Our STAR HFT Fast-Simulation
 
-4. In addition, you can also set whether run signal or background in toyMcBtoD.C;
-   default is: 
-      bool mSignal = true;
-      bool mBackGround = true;
+All Rights Reserved
 
-5. submit jobs
-   ./submit_qsub.sh $1 $2 $3 $4
-   $1: number of events every job
-   $2: runned particle: D0/B0/Bpm
-   $3: job start number
-   $4: $4-1 is job end number, so there are total $4-$3+1 jobs
-   other parameters are controlled in runBtoD.C or just use default value
+###Code Authors:  
+[Xiaolong Chen]() (xlchen@lbl.gov)  
+[Guannan Xie](https://github.com/GuannanXie) (guannanxie@lbl.gov)  
+[Xin Dong]() (xdong@lbl.gov)  
+- - -
 
-6. Note, because I close some decay channel, you need some additional scale for B0 and Bpm (B plus and minus)
-   to get your wanted B to D0 ratio (from fonll), the following is my :
-   
-    //no any cuts entries
-    double neventD0 = hD0->GetEntries();
-    double neventB0 = hB0->GetEntries();
-    double neventBpm = hBpm->GetEntries();
-    cout << "Number of D0:\t" << neventD0 << endl;
-    cout << "Number of B+/-:\t" << neventB0 << endl;
-    cout << "Number of B0:\t" << neventBpm << endl;
-    double FR1 = 0.4; //b->B+
-    double BR1 = 0.086+0.79;//0.086: B+ -> D0 X; 0.79: B+ -> D0bar X
-    double FR2 = 0.4; //b->B0
-    double BR2 = 0.081+0.474; // 0.081: B0->D0 X, 0.474: B0->D0bar X
-    double scale_Bpm = FR1*BR1/(FR1*BR1+FR2*BR2) * neventD0/(neventB0+neventBpm); //Bpm
-    double scale_B0  = FR2*BR2/(FR1*BR1+FR2*BR2) * neventD0/(neventB0+neventBpm);  // B0
-    double scale_D0  = 1.0;  //D0
-    cout << "scale for D0:\t" << scale_D0 << endl;
-    cout << "scale for B+/-:\t" << scale_Bpm << endl;
-    cout << "scale for B0:\t" << scale_B0 << endl;
+###How to use this code:  
+```bash
+Code was seperate to Two parts, clean-PID and no-PID
+
+1, CleanPID, TPC and Tof was used for particle identification
+2, NoPID, assume no PID
+3, Details can be found inside the doc note
+```
