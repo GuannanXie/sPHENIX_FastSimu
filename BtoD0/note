@@ -47,8 +47,8 @@
     double BR1 = 0.086+0.79;//0.086: B+ -> D0 X; 0.79: B+ -> D0bar X
     double FR2 = 0.4; //b->B0
     double BR2 = 0.081+0.474; // 0.081: B0->D0 X, 0.474: B0->D0bar X
-    double scale_Bpm = FR1*BR1/(FR1*BR1+FR2*BR2) * neventD0/neventBpm; //Bpm
-    double scale_B0  = FR2*BR2/(FR1*BR1+FR2*BR2) * neventD0/neventB0;  // B0
+    double scale_Bpm = FR1*BR1 * neventD0/neventBpm; //Bpm
+    double scale_B0  = FR2*BR2 * neventD0/neventB0;  // B0
     double scale_D0  = 1.0;  //D0
     cout << "scale for D0:\t" << scale_D0 << endl;
     cout << "scale for B+/-:\t" << scale_Bpm << endl;
