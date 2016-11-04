@@ -15,9 +15,9 @@ All Rights Reserved !
 - - -
 ### Presentations:  
 #### STAR Protected:  
-0. [sPHENXIX tracker (steal from Tony)](https://github.com/GuannanXie/sPHENIX_FastSimu/blob/master/Slides/2016Sept_sPHENIX_tracking_simulations_Tony.pdf), Tony Frawley, 2016-09-07 
-1. [Introduction to package and Study on D<sup>0</sup>](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-11-1  
-2. [Study on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix.pdf), Xiaolong Chen, 2016-11-01  
+0.[sPHENXIX tracker (steal from Tony)](https://github.com/GuannanXie/sPHENIX_FastSimu/blob/master/Slides/2016Sept_sPHENIX_tracking_simulations_Tony.pdf), Tony Frawley, 2016-09-07 
+1.[Introduction to package and Study on D<sup>0</sup>](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-11-1  
+2.[Study on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix.pdf), Xiaolong Chen, 2016-11-01  
 
 - - -
 
