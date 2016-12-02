@@ -19,7 +19,8 @@ All Rights Reserved !
 2. [Introduction to package and Study on D<sup>0</sup>](https://drupal.star.bnl.gov/STAR/system/files/2016Oc25_sPHENIX_FastSimu.pdf), Guannan Xie, 2016-11-1  
 3. [Study on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix.pdf), Xiaolong Chen, 2016-11-01  
 4. [Update on B->D](https://github.com/GuannanXie/sPHENIX_FastSimu/blob/master/Slides/2016Nov18_Simu_sPhenix_update_v2.pdf), Xiaolong Chen, 2016-11-18  
-4. [Update on PP](https://github.com/GuannanXie/sPHENIX_FastSimu/blob/master/Slides/2016Nov18_sPHENIX_FastSimu_update.pdf), Guannan Xie, 2016-11-18  
+5. [Update on PP](https://github.com/GuannanXie/sPHENIX_FastSimu/blob/master/Slides/2016Nov18_sPHENIX_FastSimu_update.pdf), Guannan Xie, 2016-11-18  
+6. [Update on B->D](https://drupal.star.bnl.gov/STAR/system/files/Simu_sPhenix_161202.pdf), Xiaolong Chen, 2016-12-02, -- add proton for background, have a issue to be corrected
 
 - - -
 
